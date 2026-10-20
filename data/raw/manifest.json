@@ -1,0 +1,667 @@
+[
+  {
+    "date": "2010-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111711/mensuelle_inTERnet_janvier2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111533/mensuelle_inTERnet_mars2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111504/mensuelle_inTERnet_avril2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111358/mensuelle_inTERnet_mai2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111329/mensuelle_inTERnet_juin2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-111014/mensuelle_inTERnet_oct2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-110941/mensuelle_inTERnet_nov2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2010-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france-dont-amenagement-de-peine-sous-ecrou/20170607-110524/mensuelle_inTERnet_dec2010.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-01",
+    "url": "https://static.data.gouv.fr/6b/c86b022afd41755f6a760218282755868f15a253eaf827a18c32406bc6d6eb.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-02",
+    "url": "https://static.data.gouv.fr/a7/0aac69a84743d09365d98355c86feb128b6020bbde57d66633339a0587012c.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-03",
+    "url": "https://static.data.gouv.fr/a9/d4714ac71d175fd51bb4853409dd9b13c13e1aecb4ac6f8f8b9f5a380b04d5.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-04",
+    "url": "https://static.data.gouv.fr/c8/caf8b76aba5a6bb34083ceb7c48cffa863bf8452a164f1b618f26dd3ce5c94.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-05",
+    "url": "https://static.data.gouv.fr/1b/7034f8cc95ff60e96c276ac33961f5b58538309112c971552b1fbc0457266b.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-06",
+    "url": "https://static.data.gouv.fr/92/e8bdbd45b9bbb09ba3c8fb5ac9168277f20d9d1fd1aff0ea34059aa14f112a.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-07",
+    "url": "https://static.data.gouv.fr/2f/6f86d49d22c6b9e690634096f896cb04e32b4eca10406dc311924360c9e360.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-08",
+    "url": "https://static.data.gouv.fr/03/81205b983f2154eab2361dd3f7094e737f5a6fc75590d9715f24cad3a96f22.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-09",
+    "url": "https://static.data.gouv.fr/48/13ec47557cb7242f0c5b3b75338cafa6f2fc8bf3fe6df1ddf4406f79c0ca2a.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-10",
+    "url": "https://static.data.gouv.fr/53/5c166e909e2caaf50fe7158c00b6770a643fddb3f4b360e03308340d687d96.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-11",
+    "url": "https://static.data.gouv.fr/7e/eee027bbef7d38fa8f2d5581ad7dcac8b15bb7ad7f1ab03b426804a320a0f6.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2011-12",
+    "url": "https://static.data.gouv.fr/40/97b5522dcd286a25c8f625b30d62f3999ac0600cb3011781d75cbc0e239b90.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-01",
+    "url": "https://static.data.gouv.fr/e3/3b49a247d94f3cd7bf57869e83a293f8d4ceed7f86a35c451bedd1b23ff95e.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-02",
+    "url": "https://static.data.gouv.fr/55/2973eeb5a2bcc7c93f799565835b52bfb71f9d842fa8b623f3205bfb57e1ea.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-03",
+    "url": "https://static.data.gouv.fr/7c/9819367c798e30cd99816dc0316a034ea8d81b86db6fb66ace6ea758e4bfad.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-04",
+    "url": "https://static.data.gouv.fr/2a/c71cad90ddf6e3feeee3d15389d302784a0e8fc235ed1a2edb260b4ada57b7.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-05",
+    "url": "https://static.data.gouv.fr/5a/d70d1c31e6949730ef4a7183e85c1074d1b5c56c395f2ec0b4176878dd8611.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-06",
+    "url": "https://static.data.gouv.fr/f1/33ad0d5ef7a40694766ef1733f14b80f5c94f6a92d52c0ff53efdb09965d7d.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-07",
+    "url": "https://static.data.gouv.fr/64/dcdabf5c0ba0d0a6710d88cd039044e28892c66da8cbbeda63bafd48ce1828.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-08",
+    "url": "https://static.data.gouv.fr/61/6779a78efb01caddca300c59b68bfa76bafffa04b2435c5d0d34f1f2ed1c66.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-09",
+    "url": "https://static.data.gouv.fr/a7/89cc44edb8cf1ea1c68432143ed23ad5704d6f91cf29dd55b8b9bfd8e24d47.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-10",
+    "url": "https://static.data.gouv.fr/b6/3900d17c37d71eec2b61c49e2ddbfb46a2b21a57d1f8e46b0093fd722bbe08.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2012-11",
+    "url": "https://static.data.gouv.fr/7a/150d15ae84ab06799b5e06f2fc17772cb09917274df63bcac2e919724d5003.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-01",
+    "url": "https://static.data.gouv.fr/8f/b188b6dee5754fd03573b20faca70bfac182c531aa0a6ee116c882ca179315.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-02",
+    "url": "https://static.data.gouv.fr/6e/cba57a5a5fa6482ed44fe01fc57343f50123e372d41712bf26a0c453210026.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-03",
+    "url": "https://static.data.gouv.fr/2e/4d4e16a41dda7b22421239636cb558388dbdfa24dff7f81ec496014df344b3.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-04",
+    "url": "https://static.data.gouv.fr/9b/d514a0d630440331d60bdf37c7f0babea17b783304137a8e22215137c65f29.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-05",
+    "url": "https://static.data.gouv.fr/79/67325b14e4e41a673b57ad8a9dccea92343b211239b728027447be9416a33f.xls",
+    "extension": ".xls"
+  },
+  {
+    "date": "2013-06",
+    "url": "https://static.data.gouv.fr/6b/c98054f07951f08dd269988793501ce8d2605f3f15308e666cd81b14bae8a3.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2013-07",
+    "url": "https://static.data.gouv.fr/17/68ab4fb75b81e44bb96dd771b998a869b972a4e66e303406eb3609147cc2d9.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2013-08",
+    "url": "https://static.data.gouv.fr/f4/699d040c3c0864f5cbfea0232b6ec87dff8d605bfcf2165b166f4d9900afba.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2013-09",
+    "url": "https://static.data.gouv.fr/ca/827e0bfe8df300b6644c4b6866e75bb4e2d410de3561e57036646e0d75afaa.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20141205-152028/mensuelle_juillet_2014_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20141205-152627/mensuelle_aout_2014_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20141205-152727/mensuelle_septembre_2014_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20141205-152811/mensuelle_octobre_2014.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20141205-152856/mensuelle_novembre_2014.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2014-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20161028-105102/mensuelle_decembre_2014_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-170658/mensuelle_janvier_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-170943/mensuelle_fevrier_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-171231/mensuelle_mars_2015.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-171401/mensuelle_avril_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-171535/mensuelle_mai_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-171700/mensuelle_juin_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-171838/mensuelle_juillet_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-172006/mensuelle_aout_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-172155/mensuelle_septembre_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-172318/mensuelle_octobre_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-172410/mensuelle_novembre_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2015-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160831-172531/mensuelle_decembre_2015_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-100603/mensuelle_janvier_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-100717/mensuelle_fevrier_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-100840/mensuelle_mars_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-100933/mensuelle_avril_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-101055/mensuelle_mai_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-101152/mensuelle_juin_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-101247/mensuelle_juillet_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20160901-101405/mensuelle_aout_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20161028-105550/mensuelle_septembre_2016.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20161028-105758/mensuelle_octobre_2016.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20161220-100629/mensuelle_novembre_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2016-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20161220-101044/mensuelle_decembre_2016_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20170118-105525/mensuelle_janvier_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20170315-095725/mensuelle_fevrier_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20170403-100443/mensuelle_mars_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20170516-110102/mensuelle_avril_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-detenue-et-ecrouee-en-fran-0/20170529-094313/mensuelle_mai_2017_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20170619-164126/mensuelle_juin_2017_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20170719-164944/mensuelle_juillet_2017_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20170821-114654/mensuelle_aout_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20170921-100046/mensuelle_septembre_2017_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20171018-112150/mensuelle_octobre_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20171219-174426/mensuelle_novembre_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2017-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180122-102932/mensuelle_decembre_2017.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180122-103121/mensuelle_janvier_2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180219-153245/mensuelle_fevrier_2018_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180320-095825/mensuelle_mars_2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180419-111653/mensuelle_avril_2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180523-105335/mensuelle_mai_2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180620-095852/mensuelle_juin_2018_.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20180810-173537/mensuelle_juillet_2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190114-095741/mensuelle-aout-2018-.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190114-095832/mensuelle-septembre-2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190114-095922/mensuelle-octobre-2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190114-100121/mensuelle-novembre-2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2018-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190114-100351/mensuelle-decembre-2018.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2019-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190307-114107/mensuelle-janvier-2019.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2019-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190307-115111/mensuelle-fevrier-2019.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2019-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20190402-104005/mensuelle-mars-2019v2-.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155346/statistique-etablissements-20230101.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155408/statistique-etablissements-20230201.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155432/statistique-etablissements-20230301.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155529/statistique-etablissements-20230401.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155605/statistique-etablissements-personnes-ecrouees-france-01052023.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155640/statistique-etablissements-01062023.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155705/statistique-etablissements-20230701.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155822/statistique-etablissements-01082023.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155846/statistique-etablissements-01092023.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-155933/statistique-etablissements-20231001.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160025/statistique-etablissements-01112023.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2023-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160052/statistique-etablissements-20231201-0.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160116/statistiques-etablissements-20240101.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160143/statistique-etablissements-20240202-0.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160209/statistique-etablissements-01032024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160235/statistique-etablissements-01042024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160301/statistique-etablissements-01052024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160329/statistique-etablissements-01062024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160354/statistique-etablissements-personnes-ecrouees-01072024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160422/statistiques-mensuelles-population-detenue-et-ecrouee-2024-08-01.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160453/statistique-etablissements-personnes-ecrouees-01092024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160522/statistique-etablissements-20241001.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160549/statistique-etablissements-personnes-ecrouees-01112024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2024-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160621/statistique-etablissements-personnes-ecrouees-01122024.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-01",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160647/statistique-etablissements-personnes-ecrouees-01012025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-02",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160717/statistique-etablissements-personnes-ecrouees-01022025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-03",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160751/statistique-etablissements-personnes-ecrouees-01032025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-04",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160813/statistique-etablissements-personnes-ecrouees-01042025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-05",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160840/statistique-des-etablissements-2025-05-01.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-06",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160902/statistique-etablissements-personnes-ecrouees-01062025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-07",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160922/statistique-etablissements-personnes-ecrouees-01072025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-08",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-160946/statistique-etablissements-personnes-ecrouees-01082025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-09",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-161011/statistique-etablissements-personnes-ecrouees-01092025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-10",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-161044/statistique-etablissements-personnes-ecrouees-01102025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-11",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-161106/statistique-etablissements-personnes-ecrouees-01102025.xlsx",
+    "extension": ".xlsx"
+  },
+  {
+    "date": "2025-12",
+    "url": "https://static.data.gouv.fr/resources/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/20261011-161142/statistique-etablissements-personnes-ecrouees-01122025.xlsx",
+    "extension": ".xlsx"
+  }
+]

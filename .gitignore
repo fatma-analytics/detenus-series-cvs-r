@@ -1,0 +1,6 @@
+.venv/
+.Rproj.user/
+.Rhistory
+.RData
+.quarto/
+*.log
