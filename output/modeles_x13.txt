@@ -1,0 +1,75 @@
+
+=====================  Periode 2008-2019  =====================
+
+--- Modele SANS regresseur samedis ---
+
+Call:
+seas(x = y, regression.aictest = NULL, x11 = "")
+
+Coefficients:
+                  Estimate Std. Error z value Pr(>|z|)    
+AR-Nonseasonal-01  0.27240    0.07978   3.414 0.000639 ***
+MA-Seasonal-12     0.92845    0.05782  16.059  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+X11 adj.  ARIMA: (1 1 0)(0 1 1)  Obs.: 135  Transform: none
+AICc:  1759, BIC:  1768  QS (no seasonality in final):    0  
+Box-Ljung (no autocorr.): 30.18   Shapiro (normality): 0.9848  
+
+--- Modele AVEC regresseur samedis du mois precedent ---
+
+Call:
+seas(x = y, xreg = samedis_prec, regression.aictest = NULL, x11 = "", 
+    regression.usertype = "td")
+
+Coefficients:
+                  Estimate Std. Error z value Pr(>|z|)    
+xreg              -7.21504   25.82166  -0.279  0.77992    
+AR-Nonseasonal-01  0.27312    0.08029   3.402  0.00067 ***
+MA-Seasonal-12     0.91064    0.05735  15.880  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+X11 adj.  ARIMA: (1 1 0)(0 1 1)  Obs.: 135  Transform: none
+AICc:  1762, BIC:  1772  QS (no seasonality in final):    0  
+Box-Ljung (no autocorr.): 29.78   Shapiro (normality): 0.9852  
+
+=====================  Periode 2021-2025  =====================
+
+--- Modele SANS regresseur samedis ---
+
+Call:
+seas(x = y, regression.aictest = NULL, x11 = "")
+
+Coefficients:
+                   Estimate Std. Error z value Pr(>|z|)    
+Constant          465.27316  158.70357   2.932  0.00337 ** 
+AR-Nonseasonal-01   0.36599    0.11450   3.196  0.00139 ** 
+AR-Seasonal-12      0.68500    0.09327   7.344 2.07e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+X11 adj.  ARIMA: (1 1 0)(1 0 0)  Obs.: 60  Transform: none
+AICc: 870.3, BIC: 877.9  QS (no seasonality in final):    0  
+Box-Ljung (no autocorr.):  17.9   Shapiro (normality): 0.988  
+
+--- Modele AVEC regresseur samedis du mois precedent ---
+
+Call:
+seas(x = y, xreg = samedis_prec, regression.aictest = NULL, x11 = "", 
+    regression.usertype = "td")
+
+Coefficients:
+                   Estimate Std. Error z value Pr(>|z|)    
+xreg               63.81026   35.86352   1.779  0.07520 .  
+Constant          429.66814  186.08592   2.309  0.02094 *  
+AR-Nonseasonal-01   0.40406    0.11278   3.583  0.00034 ***
+AR-Seasonal-12      0.91717    0.04726  19.405  < 2e-16 ***
+MA-Seasonal-12      0.48867    0.13805   3.540  0.00040 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+X11 adj.  ARIMA: (1 1 0)(1 0 1)  Obs.: 60  Transform: none
+AICc:   870, BIC: 880.8  QS (no seasonality in final):    0  
+Box-Ljung (no autocorr.): 28.51   Shapiro (normality): 0.9767  

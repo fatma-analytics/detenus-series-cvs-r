@@ -1,0 +1,9 @@
+controle,statut,detail
+Un seul enregistrement par mois,OK,
+Effectifs positifs et plausibles (40 000 - 100 000),OK,
+Periodes desaisonnalisees sans mois manquant,OK,
+Serie corrigee calculee pour chaque mois,OK,
+Brut = corrige + saisonnalite (+ effet samedis) a 1 % pres,OK,
+Ecart a l'Insee <= 1 % jusqu'en 2019,OK,ecart max 0.00 %
+Ecart a l'Insee depuis 2021 explique par le champ (0 a 2 %),OK,ecart de 1089 a 1332 personnes : l'Insee exclut les collectivites d'outre-mer depuis 2021
+Graphiques produits,OK,
