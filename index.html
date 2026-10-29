@@ -1,1 +1,11 @@
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Détenus — désaisonnalisation</title><style>body{font-family:system-ui,sans-serif;max-width:1000px;margin:2rem auto;padding:0 1rem;color:#17202a}img{max-width:100%;height:auto}h1{color:#1f4e79}.note{background:#f3f6f9;padding:1rem;border-left:4px solid #d97904}</style></head><body><h1>Comment interpréter correctement les évolutions mensuelles du nombre de détenus&nbsp;?</h1><p>Une chaîne reproductible pour importer les statistiques mensuelles officielles, contrôler la série et comparer une série brute à une correction saisonnière.</p><div class="note"><strong>Résultat principal :</strong> la série mensuelle extraite couvre janvier 2021 à décembre 2025. Le coefficient descriptif des samedis du mois précédent est de 529 détenus par samedi, mais n’est pas significatif dans cette extraction (p=0,751).</div><h2>Série longue</h2><img src="../output/graphiques/01_serie_longue_brute.png"><h2>Brut et CVS-CJO proxy</h2><img src="../output/graphiques/02_brut_vs_cvs_cjo.png"><h2>Effet des samedis</h2><img src="../output/graphiques/03_effet_samedis.png"><h2>Évolutions mensuelles</h2><img src="../output/graphiques/04_evolutions_mensuelles.png"><h2>Méthode</h2><p>Les classeurs bruts sont conservés dans <code>data/raw/</code>. La chaîne R tente un modèle X-13 avec régresseur externe et outliers AO/LS, puis utilise une moyenne mobile comme solution de rendu si X-13 n’est pas installé.</p><p>Sources : <a href="https://www.justice.gouv.fr/documentation/etudes-et-statistiques/statistiques-mensuelles-population-detenue-ecrouee-9">Ministère de la Justice</a> et <a href="https://www.insee.fr/fr/statistiques/2382579">Insee</a>.</p></body></html>
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=publication/index.html">
+<title>Population détenue : désaisonnalisation</title>
+</head>
+<body>
+<p>Redirection vers la <a href="publication/index.html">publication</a>.</p>
+</body>
+</html>

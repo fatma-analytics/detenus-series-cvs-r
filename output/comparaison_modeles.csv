@@ -1,0 +1,3 @@
+periode,nb_mois,coef_samedis,ecart_type,p_value,aicc_sans,aicc_avec,modele_retenu,arima,qs_saisonnalite_residuelle_p
+2008-2019,135,-7.21504256418234,25.8216561161529,0.7799238493039228,1759.4328,1761.5018,sans samedis (CVS),(1 1 0)(0 1 1),1
+2021-2025,60,63.8102643974601,35.8635219604278,0.07519835959584031,870.3211,869.9778,avec samedis (CVS-CJO),(1 1 0)(1 0 1),1

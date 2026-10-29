@@ -1,2 +1,26 @@
-type,date,detail
-
+controle,date,detail
+Mois manquant,2019-04-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-05-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-06-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-07-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-08-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-09-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-10-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-11-01,Absent de tous les fichiers disponibles
+Mois manquant,2019-12-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-01-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-02-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-03-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-04-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-05-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-06-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-07-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-08-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-09-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-10-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-11-01,Absent de tous les fichiers disponibles
+Mois manquant,2020-12-01,Absent de tous les fichiers disponibles
+Revision entre millesimes,2010-03-01,ecart de 10 personnes entre 22 publications
+Revision entre millesimes,2011-08-01,ecart de 1 personnes entre 24 publications
+Total different de la somme des categories,2014-11-01,ecart 12
+Changement de nomenclature,2021-01-01,"Passage de prevenus/condamnes a PR/CP/CO (source GENESIS). Les condamnes-prevenus (CP), auparavant comptes surtout parmi les prevenus, sont isoles : total comparable, ventilation non comparable sans raccord"
